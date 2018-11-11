@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100i);
+
+html,
+body {
+    background: url(../img/gaming-pattern.png) center;
+    background-repeat: repeat;
+    background-attachment: fixed
+}
+.row{
+	margin-top: 100px;
+}
+
+.a {
+	font-size: 220px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.a2{
+	font-size: 32.7px;
+	text-align: justify;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.a3{
+	font-size: 20px;
+	text-align: justify;
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn{
+	float: right;
+	margin-right: 30%;
+	width: 250px;
+	text-align: center;
+	background-color: #73a5d1;	
+} 
+
+.btn-primary {
+    color: #fff;
+    background-color: #73a5d1 !important;
+    border-color: none;
+}
